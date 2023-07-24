@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(71, 254, 239);
+}
+
+h1 {
+    font-size: 40px; color: blue;
+}
+p {
+    font-size: 32px; color: red;
+}
